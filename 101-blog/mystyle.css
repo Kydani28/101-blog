@@ -1,0 +1,14 @@
+body{
+    font-family: arial;
+}
+h1{
+    color:orange;
+}
+p{
+    font-size: 18px;
+    line-height: 1.5;
+    color:gray;
+}
+.alert-error{
+    color:red;
+}

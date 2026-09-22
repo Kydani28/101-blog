@@ -1,0 +1,17 @@
+.my-title {
+    color: rgb(255, 13, 0);
+    font-family:cursive;
+}
+
+.paragraph-style {
+    background-color: rgb(57, 120, 197);
+}
+
+.link {
+    box-shadow: 4px 8px 20px blue;
+}
+
+.footer-style {
+    font-weight: bold;
+    text-align: center;
+}

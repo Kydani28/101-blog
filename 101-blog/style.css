@@ -1,0 +1,36 @@
+/*global*/
+body{
+    font-family: arial;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+/*header*/
+.site-init{
+    background-color: black;
+    color:white;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+}
+.menu-sub{
+    display: inline-block;
+    text-align: center;
+    background-color: #ffcc00;
+    padding: 10px;
+}
+
+/*main*/
+.lg-text{
+    font-size: 52px;
+    font-weight: bold;
+}
+.sm-text{
+    font-size: 14px;
+    color:#909090;
+}
